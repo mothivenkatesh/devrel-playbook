@@ -1,4 +1,4 @@
-# Skill 17: MASTER PLAYBOOK — End-to-End Community Growth (Ben Lang's Full System)
+# Skill 17: MASTER PLAYBOOK — End-to-End Community Growth
 
 **Category:** Community Building | **Phase:** 6. Flywheel
 
@@ -6,7 +6,7 @@
 
 ## What It Is
 
-The complete, end-to-end playbook for building a community-led growth engine. This is how Ben Lang took Notion from a 15-person startup with zero community infrastructure to a global movement.
+The complete, end-to-end playbook for building a community-led growth engine. This is how Notion went from a 15-person startup with zero community infrastructure to a global movement.
 
 This playbook synthesizes all 16 individual skills into a phased execution plan.
 
@@ -89,7 +89,7 @@ This playbook synthesizes all 16 individual skills into a phased execution plan.
 - New users discover the product through community content, not paid ads
 - Your community IS your growth engine and your moat
 
-## Ben Lang's Core Rules (Apply to Every Phase)
+## Core Rules (Apply to Every Phase)
 
 1. **Product first.** Without genuine product love, nothing else works.
 2. **Observe before you build.** Every program should start with organic behavior you've already spotted.

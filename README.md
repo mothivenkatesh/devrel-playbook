@@ -1,6 +1,6 @@
-# Ben Lang's Community Playbook - Skills & SOPs
+# DevRel Playbook - Skills & SOPs
 
-Complete collection of community building skills and SOPs extracted from Ben Lang's work at Notion (5 years, employee #15 to 600+), his angel investing, and community projects like Next Play, Corona Crush, and International Humus Day.
+Complete collection of community building skills and SOPs for developer relations, community-led growth, and creator ecosystem development. Extracted from real-world experience scaling a product community from zero to a global movement.
 
 Based on analysis of webinars, podcasts, interviews, and public writing.
 
@@ -29,7 +29,7 @@ Based on analysis of webinars, podcasts, interviews, and public writing.
 | 15 | [Scrappy Team Scaling](skills/15-scrappy-team-scaling.md) | Operations | Scale |
 | 16 | [Angel Investing as Relationship Building](skills/16-angel-investing.md) | Investing | Framework |
 | 17 | [MASTER PLAYBOOK: End-to-End Community Growth](skills/17-master-playbook.md) | Community Building | Flywheel |
-| 18 | [Ben Lang: Full Biography & Origin Story](skills/18-biography.md) | Career & Personal | Framework |
+| 18 | [Full Biography & Origin Story](skills/18-biography.md) | Career & Personal | Framework |
 | 19 | [Champions Community: Enterprise Program](skills/19-champions-community.md) | Community Building | Systematize |
 | 20 | [The Community Portal: Central Landing Page](skills/20-community-portal.md) | Community Building | Formalize |
 | 21 | [The Creator Economy Flywheel](skills/21-creator-economy-flywheel.md) | Marketing & Growth | Flywheel |
@@ -62,12 +62,12 @@ FRAMEWORKS (Apply anytime)        → Skills 6, 10, 13, 16, 18, 26, 27
 
 ## Sources
 
-- Tribe Industry Expert Webinar (Ben Lang on Notion's Community)
-- Invested Podcast (Ben Lang interview)
+- Tribe Industry Expert Webinar (Notion's Community)
+- Invested Podcast
 - Passionfroot Jam
 - Founders Forum Podcast
 - LinkedIn posts and Medium articles
 
 ---
 
-*Extracted and organized by Claude. All insights attributed to Ben Lang.*
+*Extracted and organized by Claude.*

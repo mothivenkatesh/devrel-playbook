@@ -1,10 +1,10 @@
-# Skill 18: Ben Lang — Full Biography & Origin Story
+# Skill 18: Full Biography & Origin Story
 
 **Category:** Career & Personal | **Phase:** Framework
 
 > **Key Principle:** Every builder is made through compounding experiments. eBay flipping, dog walking, hackathons, side projects, military intelligence, community obsession — each chapter fed the next.
 
-## Who Ben Lang Is
+## Background
 
 Builder, community leader, angel investor. Formerly Head of Community at Notion (5 years, employee ~15 to 600+). Now running a $6M micro angel fund and building Next Play. Lives in Tel Aviv with his wife. Grew up in the US (Bay Area and New York), moved to Israel for high school, served in IDF intelligence.
 

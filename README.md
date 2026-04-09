@@ -60,6 +60,14 @@ FRAMEWORKS (Apply anytime)        → Skills 6, 10, 13, 16, 18, 26, 27
 - **Career & Personal** (4 skills): Job hunting, side projects, biography, personal brand
 - **Investing** (2 skills): Angel investing, community signal evaluation
 
+## Applied Playbooks
+
+Real-world applications of these skills to specific developer ecosystems:
+
+| Playbook | Context | Skills Used |
+|---|---|---|
+| [Cashfree Developer GTM Funnel](applied/cashfree-developer-gtm-funnel.md) | Growing Cashfree's developer ecosystem. Discord as community layer, MTUs & GMV as end goal. | 01, 02, 03, 04, 05, 06, 07, 08, 12, 14, 17, 21 |
+
 ## Sources
 
 - Tribe Industry Expert Webinar (Notion's Community)
